@@ -1,11 +1,11 @@
-### Algorithm Study 커리큘럼 (초안)
+### Algorithm Study 커리큘럼
 <br>
 
-- 알고리즘이란
-  - Big O notation
-  - 시간복잡도
-  - 공간복잡도 등
-- Problem solve
+- 알고리즘이란 - 20180930
+  - Big O notation - 20180930
+  - 시간복잡도 - 20180930
+  - 공간복잡도 등 - 20180930
+- Problem solve - 20180930
 - Recursion (재귀)
 - Divide and Quanquer (분할 정복)
 - Dynamic Programming (동적 계획법)
