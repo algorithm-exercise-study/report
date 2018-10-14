@@ -6,10 +6,14 @@
   - 시간복잡도 - 20180930
   - 공간복잡도 등 - 20180930
 - Problem solve - 20180930
-- Recursion (재귀)
-- Divide and Quanquer (분할 정복)
-- Dynamic Programming (동적 계획법)
-- Greedy Algorithm (탐욕법)
+- Recursion (재귀) - 20181007
+  - https://www.acmicpc.net/problem/1914
+- Divide and Quanquer (분할 정복) - 20181007
+  - https://www.acmicpc.net/problem/1992
+- Dynamic Programming (동적 계획법) - 20181014
+  - https://www.acmicpc.net/problem/11048
+- Greedy Algorithm (탐욕법) - 20181014
+  - https://www.acmicpc.net/problem/5585
 - Hash Algorithm
 - Euclidean algorithm (유클리드 호제법)
 <br>
