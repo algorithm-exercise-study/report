@@ -16,7 +16,7 @@
 - Greedy Algorithm (탐욕법) - 20181014
   - https://www.acmicpc.net/problem/5585
 - Hash Algorithm - 20181021
- - https://www.acmicpc.net/problem/2379 - 20181021
+  - https://www.acmicpc.net/problem/2379 - 20181021
 - Euclidean algorithm (유클리드 호제법)
 <br>
 
