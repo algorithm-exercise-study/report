@@ -8,6 +8,7 @@
 - Problem solve - 20180930
 - Recursion (재귀) - 20181007
   - https://www.acmicpc.net/problem/1914
+  - https://www.acmicpc.net/problem/10872
 - Divide and Quanquer (분할 정복) - 20181007
   - https://www.acmicpc.net/problem/1992
 - Dynamic Programming (동적 계획법) - 20181014
