@@ -11,14 +11,15 @@
   - https://www.acmicpc.net/problem/10872
 - Divide and Quanquer (분할 정복) - 20181007
   - https://www.acmicpc.net/problem/1992
+  - https://www.acmicpc.net/problem/1074
 - Dynamic Programming (동적 계획법) - 20181014
   - https://www.acmicpc.net/problem/11048
-  - https://www.acmicpc.net/problem/9095 - 20181021
+  - https://www.acmicpc.net/problem/9095
 - Greedy Algorithm (탐욕법) - 20181014
   - https://www.acmicpc.net/problem/5585
 - Hash Algorithm - 20181021
-  - https://www.acmicpc.net/problem/2379 - 20181021
-- Euclidean algorithm (유클리드 호제법)
+  - https://www.acmicpc.net/problem/2379
+- Euclidean algorithm (유클리드 호제법) - 20181028
 <br>
 
 - Sort
