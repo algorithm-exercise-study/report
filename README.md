@@ -20,6 +20,7 @@
 - Hash Algorithm - 20181021
   - https://www.acmicpc.net/problem/2379
 - Euclidean algorithm (유클리드 호제법) - 20181028
+  - https://www.acmicpc.net/problem/1188
 <br>
 
 - Sort
