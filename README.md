@@ -35,14 +35,14 @@
   - https://programmers.co.kr/learn/courses/30/lessons/42841?language=java
   - Linear search
   - Binary search
-- Problem solve
+- Problem solve - 20181125
 <br>
 
-- Dynamic Array
-- Linked List
-- Stack
-- Queue
-- Deque (데크)
+- Dynamic Array - 20181125
+- Linked List - 20181125
+- Stack - 20181125
+- Queue - 20181125
+- Deque (데크) - 20181125
 - Tree
   - 트리 순회
   - Binary Search Tree (BST, 이진 탐색 트리)
