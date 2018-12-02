@@ -43,7 +43,8 @@
 - Stack - 20181125
 - Queue - 20181125
 - Deque (데크) - 20181125
-- Tree
+- Tree - 20181202
+  - https://programmers.co.kr/learn/courses/30/lessons/42626?language=java
   - 트리 순회
   - Binary Search Tree (BST, 이진 탐색 트리)
   - Complete Binary Tree (완전 이진 트리)
